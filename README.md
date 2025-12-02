@@ -1,6 +1,8 @@
 # Proyecto lista de ocio
 
-Proyecto lista anime que posteriormente se llamo lista de ocio cuenta con arquitectura de rest API, es un programa para almacenar una lista ordenada de animes con indicador de visto, comentarios, número de capítulos, nombre y capacidad para generar archivos descargables, así como alimentarse desde un archivo CSV.
+Proyecto lista anime que posteriormente se llamo lista de ocio cuenta con arquitectura de rest API, es un programa para almacenar una lista ordenada de animes con indicador de visto, comentarios, número de capítulos, nombre y capacidad para generar archivos descargables, así como alimentarse desde un archivo CSV. 
+
+Este proyecto está pensado para el uso de un solo usuario; es como una lista personal.
 
 ![Portada](./img-portada/portada.jpg)
 
